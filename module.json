@@ -1,0 +1,12 @@
+{
+    "id": "countdown",
+    "name": "Countdown",
+    "description": "Displays the number of days before a scheduled event",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": []
+}
